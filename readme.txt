@@ -3,7 +3,7 @@ Contributors: ShareBacks
 Donate link: http://sharebacks.com/
 Tags: comments, sharebacks,comments,social
 Requires at least: 2.0.2
-Tested up to: 2.1
+Tested up to: 3.0.4
 Stable tag: 4.3
 
 Stop commenting. Start ShareBacking!
