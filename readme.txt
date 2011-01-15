@@ -20,4 +20,5 @@ and published back on your site .
 1. Upload `sharebacks.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. In the plugin settings enter the site id you got when registering sharebacks from sharebacks.com
+4. To transfer comments from your old comments system see instruction at Sharebacks.com  
 4. Enjoy ShareBacks !
